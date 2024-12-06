@@ -19,3 +19,5 @@ Project Akhir Belajar Analisi Data dengan Python | Dicoding
 **Kesimpulan yang didapat**
 1. Faktor cuaca seperti suhu dan suhu udara memiliki pengaruh yang signifikan terhadap penyewaan sepeda, sedangkan kelembaban dan kecepatan angin memiliki pengaruh yang kecil.
 2. Pada hari kerja, tren penyewaan sepeda dipengaruhi oleh jam-jam sibuk (pagi dan sore hari), sedangkan pada akhir pekan, penyewaan sepeda lebih stabil dengan puncaknya pada siang hari.
+
+Streamlit Dashboard Analisis Data Bike Sharing Dataset by Vitto bisa diakses di => https://project-data-analysis-by-vitto.streamlit.app/
