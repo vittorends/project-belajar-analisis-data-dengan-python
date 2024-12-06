@@ -1,5 +1,5 @@
 # 🚲 Bike Sharing Analysis Project
-Project Akhir Belajar Analisi Data dengan Python | Dicoding
+Project Akhir Belajar Analisis Data dengan Python | Dicoding
 ## Setup Environment - Shell/Terminal
 - mkdir Submission
 - cd Submission
